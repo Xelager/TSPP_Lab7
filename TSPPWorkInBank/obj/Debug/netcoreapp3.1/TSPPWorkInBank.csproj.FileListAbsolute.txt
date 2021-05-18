@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.AssemblyInfo.cs
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.exe
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.deps.json
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.runtimeconfig.json
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.runtimeconfig.dev.json
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.dll
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\bin\Debug\netcoreapp3.1\TSPPWorkInBank.pdb
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.dll
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.pdb
+C:\Users\User\source\repos\TSPPWorkInBank\TSPPWorkInBank\obj\Debug\netcoreapp3.1\TSPPWorkInBank.genruntimeconfig.cache
